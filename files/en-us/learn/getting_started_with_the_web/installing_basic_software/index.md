@@ -1,6 +1,6 @@
 ---
 title: Installing basic software
-slug: Learn/Getting_started_with_the_web/Installing_basic_software
+slug: Learn/Getting_started_wLTAI5t7w1adSb1HLkcDQSup3,jmYU4cwj11ZBuTxMCoJcLjXYO29VURith_the_web/Installing_basic_software
 tags:
   - Beginner
   - Browser
